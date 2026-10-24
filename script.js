@@ -26,7 +26,8 @@ const translations = {
     menuCtaNote: "The full menu is just a click away.", viewFullMenu: "View full menu",
     visitLabel: "We'll save you a seat", visitHeading: "Find your<br><em>way to La Soul.</em>",
     visitIntro: "Drop in for a coffee, a bite, or a little bit of both. We're here in Sarajevo.",
-    openMaps: "Open in Maps", mapCaption: "SARAJEVO · BOSNIA & HERZEGOVINA",
+    openMaps: "Open in Maps", coffeeRitualLabel: "A slow, good pause",
+    coffeeRitualTitle: "A little<br><em>coffee ritual.</em>", coffeeRitualStamp: "Poured with soul",
     addressLabel: "Come find us", callAhead: "Give us a call",
     hoursNote: "For today's opening hours, please give us a call.",
     footerLine: "A little soul goes a long way."
@@ -58,7 +59,8 @@ const translations = {
     menuCtaNote: "Cijeli meni vas čeka na jedan klik.", viewFullMenu: "Otvori cijeli meni",
     visitLabel: "Čuvamo vam mjesto", visitHeading: "Pronađite<br><em>put do La Soula.</em>",
     visitIntro: "Svratite na kafu, nešto za pojesti ili oboje. Nalazimo se u Sarajevu.",
-    openMaps: "Otvori u mapama", mapCaption: "SARAJEVO · BOSNA I HERCEGOVINA",
+    openMaps: "Otvori u mapama", coffeeRitualLabel: "Usporen trenutak",
+    coffeeRitualTitle: "Mali<br><em>kafeni ritual.</em>", coffeeRitualStamp: "Kafu sipamo s dušom",
     addressLabel: "Posjetite nas", callAhead: "Nazovite nas",
     hoursNote: "Za današnje radno vrijeme, molimo vas da nas pozovete.",
     footerLine: "Malo duše daleko se čuje."
